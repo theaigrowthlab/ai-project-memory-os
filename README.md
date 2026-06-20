@@ -78,7 +78,17 @@ Works with Claude, ChatGPT, Gemini, Grok, Qwen, Kimi — any LLM with file acces
 - AI-native — LLMs read markdown better than JSON
 
 ---
+---
 
+## Want the full AI workforce that runs on this memory OS?
+
+This repo is the **memory layer** — the brain.
+
+**The AI Workforce OS Starter Kit** is the full body — 23 AI agents, approval workflows, content pipeline, A/B testing, LLM router, dashboard, 509 tests — everything that actually generates revenue, built on top of this exact memory system.
+
+→ **[Get the AI Workforce OS — £29](https://theaigrowthlab.co.uk/workforce-os)**
+
+Built in public at [The AI Growth Lab](https://theaigrowthlab.co.uk) · MIT licensed · 30-day refund
 ## License
 
 MIT — use it commercially, modify it, ship it. No attribution required (appreciated).
